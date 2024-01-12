@@ -21,6 +21,9 @@ public class PlayerController : MonoBehaviour
         // GetAxis
         //float x = Input.GetAxis("Horizontal"); // -1.0..1.0
         //float y = Input.GetAxis("Vertical"); // -1.0..1.0
+        
+        // for DIAGONAL
+        // .normalized
 
         //gameObject.transform.Translate(Vector3.right * Time.deltaTime * speed);
         //gameObject.transform.Translate(Vector3.forward * Time.deltaTime * speed);
